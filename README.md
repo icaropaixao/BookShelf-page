@@ -1,5 +1,5 @@
 # BookShelf-page
- Landing page ilustrativa criada com meus aprendeizados em HTML5 e CSS
+ Landing page ilustrativa criada com meus aprendizados em HTML5 e CSS
 CLIQUE NO LINK ABAIXO PARA VISUALIZAR O PROJETO
 
 
